@@ -1,6 +1,6 @@
 # Job-Search-Board-Portal-Development(https://cvings.net)
 
-![wordpress](https://user-images.githubusercontent.com/26916595/66647678-33f46a80-ec47-11e9-9b95-307d10c0e83c.jpg)
+![UserProfile](https://user-images.githubusercontent.com/26916595/70372154-61852980-1901-11ea-9c41-85a44222d4b2.JPG)
 
 Description
 --------------
@@ -12,8 +12,8 @@ File and Directory Structure:
 Files includes:
             
 			
-               About-Us-V2.json                     : Sample about us page
-               Service Page v1.json                 : Sample services page
+               Login_SignUp_UserRegistration.xml              : xml file that contains Login form, SignUp Form and user registration                                                                     form
+               UserProfilePage.json                           : User Profile Page
              
 
 Functional description of the project is as follows:
